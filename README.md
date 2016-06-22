@@ -2,7 +2,7 @@
 Aplicativo de Editor de Texto feito em WPF, suas funcoes
 sao:
 
-- Composto por um Menu: Arquivo, Editar, Formatar e Ajuda
+- Composto pelos Menus: Arquivo, Editar, Formatar e Ajuda
 - Area de digitacao de texto
 - Barra de Status que informa a linha e coluna do cursor
 - Grava preferencias de uso do usuario
@@ -14,7 +14,7 @@ Ajuda: Sobre
 
 TextEdit application written in WPF, its functions are:
 
-- Consists of a menu: File, Edit, Format and Help
+- Consists of a menus: File, Edit, Format and Help
 - Area of text input
 - Status bar that informs the line and the cursor column
 - Record preferences of User use
